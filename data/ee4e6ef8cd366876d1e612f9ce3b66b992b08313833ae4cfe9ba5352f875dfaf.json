@@ -1,1 +1,1 @@
-{"number":"6017","device":"Электросамокат Ninebot f2","status":"Новый","percent":0,"updated":"2026-10-18T10:37:59Z","items":[{"name":"Ремонт вилки","done":false},{"name":"Замена подшипников ПК","done":false},{"name":"Обслуживание тормоза","done":false}]}
+{"number":"6017","device":"Электросамокат Ninebot f2","status":"В работе","percent":67,"updated":"2026-10-18T10:38:06Z","items":[{"name":"Ремонт вилки","done":true},{"name":"Замена подшипников ПК","done":true},{"name":"Обслуживание тормоза","done":false}]}
