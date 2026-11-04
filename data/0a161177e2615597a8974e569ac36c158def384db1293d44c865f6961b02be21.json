@@ -1,1 +1,1 @@
-{"number":"6018","device":"Samik m365","status":"Готов","percent":0,"updated":"2026-11-04T08:59:01Z","items":[{"name":"Замена подшипников МК","done":false},{"name":"Обслуживание тормоза","done":false},{"name":"Чистка колодок","done":false}]}
+{"number":"6018","device":"Samik m365","status":"Выполнен","percent":100,"updated":"2026-11-04T10:14:03Z","items":[{"name":"Замена подшипников МК","done":true},{"name":"Обслуживание тормоза","done":true},{"name":"Чистка колодок","done":true}]}
