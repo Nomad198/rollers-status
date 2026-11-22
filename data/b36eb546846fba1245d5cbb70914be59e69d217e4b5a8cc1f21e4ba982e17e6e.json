@@ -1,1 +1,1 @@
-{"number":"6037","device":"Kugoo G3","status":"В работе","percent":0,"updated":"2026-11-21T16:34:20Z","items":[{"name":"Устранение люфта","done":false},{"name":"Обслуживание тормоза","done":false}]}
+{"number":"6037","device":"Kugoo G3","status":"Готов","percent":100,"updated":"2026-11-22T10:46:38Z","items":[{"name":"Устранение люфта","done":true},{"name":"Обслуживание тормоза","done":true}]}
