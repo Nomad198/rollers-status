@@ -1,1 +1,1 @@
-{"number":"6064","device":"kugoo l2 pro","status":"Согласован, ремонтируем","percent":0,"updated":"2026-11-27T10:13:11Z","items":[{"name":"Ремонт","done":false},{"name":"Дренажные отверстия","done":false}]}
+{"number":"6064","device":"kugoo l2 pro","status":"Готов","percent":100,"updated":"2026-11-27T10:56:28Z","items":[{"name":"Ремонт","done":true},{"name":"Дренажные отверстия","done":true}]}
